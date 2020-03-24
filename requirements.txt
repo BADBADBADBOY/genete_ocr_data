@@ -1,0 +1,7 @@
+Pillow
+opencv-python
+ruamel.yaml
+numpy
+lxml
+fontTools
+Cython
