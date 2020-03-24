@@ -16,13 +16,13 @@
 
 ### 生成图片示例:
 
-![](output/show_result/1.jpg)
-![](output/show_result/2.jpg)
-![](output/show_result/3.jpg)
+![](./output/show_result/1.jpg)
+![](./output/show_result/2.jpg)
+![](./output/show_result/3.jpg)
 
 ### 生成txt示例:
 
-![](output/show_result/txt.jpg)
+![](./output/show_result/txt.jpg)
 
 ### 使用方式
 
